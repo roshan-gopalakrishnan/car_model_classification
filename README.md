@@ -5,7 +5,7 @@ Deep learning technique: Transfer learning of pretrained VGG16 on IMAGENET datas
 
 This repository mainly contains preprocessed train and test dataset, car_model_classification.py, preprocessing.py and plotting.py
 
-preprocessing.py is used to crop the images to the given bounding boxes in the annotation files. It also does the basic preprocessing needed for training and testing images.
+preprocessing.py is used to crop the images to the given bounding boxes as given in the annotation files. 
 car_model_classification.py is the code for transfer learning.
 plotting.py plots the accuracy vs epoch figure.
 
