@@ -1,7 +1,7 @@
 # car_model_classification
-Image classification of Stanford car dataset
+Car model classification of Stanford car dataset
 
-I have used transfer learning of pretrained VGG16 on IMAGENET dataset to classify car models using Stanford car dataset.
+Deep learning technique: Transfer learning of pretrained VGG16 on IMAGENET dataset is used to classify car models using Stanford car dataset.
 
 This repository mainly contains preprocessed train and test dataset, car_model_classification.py, preprocessing.py and plotting.py
 
