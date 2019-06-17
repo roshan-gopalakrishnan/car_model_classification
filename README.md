@@ -11,11 +11,4 @@ plotting.py plots the accuracy vs epoch figure.
 
 Requirements: Initial import packages in the car_model_classification.py gives an overview of the packages to be installed before using this repository. 
 
-General requirements are :
-
-tensorflow
-keras
-matplotlib
-numpy
-scipy
-csv
+General requirements are : tensorflow, keras, matplotlib, numpy, scipy, csv
