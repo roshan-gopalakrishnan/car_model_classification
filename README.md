@@ -14,13 +14,8 @@ Requirements: Initial import packages in the car_model_classification.py gives a
 General requirements are :
 
 tensorflow
-
 keras
-
 matplotlib
-
 numpy
-
 scipy
-
 csv
